@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs/Azure.Core.Poc/v15
+/.vs
+/Azure.Core.Poc/.vs/Azure.Core.Poc
+/Azure.Core.Poc/Azure.Core.Infrastructure/bin/Debug/netstandard2.0
+/Azure.Core.Poc/Azure.Core.Infrastructure/obj
+/Azure.Core.Poc/Azure.Core.Model/bin/Debug/netstandard2.0
+/Azure.Core.Poc/Azure.Core.Model/obj/Debug/netstandard2.0
+/Azure.Core.Poc/Azure.Core.Model/obj
+/Azure.Core.Poc/Azure.Core.Poc/obj/Debug/netcoreapp2.0
+/Azure.Core.Poc/Azure.Core.Poc/obj
+/Azure.Core.Poc/obj/Docker

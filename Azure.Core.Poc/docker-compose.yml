@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  azure.core.poc:
+    image: azure.core.poc
+    build:
+      context: ./Azure.Core.Poc
+      dockerfile: Dockerfile
